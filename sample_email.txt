@@ -1,0 +1,15 @@
+From: support@paypa1-security.com
+
+Subject: Urgent: Verify Your Account
+
+Dear Customer,
+
+We detected unusual activity.
+
+Please verify your account within 24 hours.
+
+Click here:
+http://paypal-login-security.com
+
+Regards,
+Security Team
